@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 # My Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msk17a&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msk17a&theme=dark)
