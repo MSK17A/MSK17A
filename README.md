@@ -1,4 +1,3 @@
-### Hi I am Mohammad 👋
 ![Header](./github-header-image.png)
 <!--
 **MSK17A/MSK17A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
