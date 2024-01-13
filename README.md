@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 # My Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msk17a&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msk17a&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msk17a&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=msk17a&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msk17a&theme=dark&utcOffset=8)
