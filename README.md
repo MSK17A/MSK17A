@@ -1,5 +1,6 @@
 ![Header](./github-header-image.png)
 
+# 💫 About Me:
 Hello, I'm Mohammad AlSammak, a passionate individual with a diverse set of interests and skills.
 
 I hold a degree in mechanical engineering and have transitioned into the dynamic field of software engineering.
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My Stats
+# 📊 GitHub Stats:
 
 [![](https://raw.githubusercontent.com/MSK17A/MSK17A/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/MSK17A/MSK17A/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
