@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # My Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msk17a&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msk17a&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msk17a&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=msk17a&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msk17a&theme=dark&utcOffset=8)
+
+[![](https://raw.githubusercontent.com/MSK17A/MSK17A/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MSK17A/MSK17A/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MSK17A/MSK17A/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MSK17A/MSK17A/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MSK17A/MSK17A/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
