@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 # 💫 About Me:
-Hello, I'm Mohammad AlSammak, a passionate individual with a diverse set of interests and skills.
+My name is Mohammad AlSammak, a passionate individual with a diverse set of interests and skills.
 
 I hold a degree in mechanical engineering and have transitioned into the dynamic field of software engineering.
 
